@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+<div style='position: relative; width: 100%; height: 0; padding-top: 56.25%; overflow: hidden; will-change: transform;'>
+  <iframe loading='lazy' style='position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;' src='https:&#x2F;&#x2F;www.miricanvas.com&#x2F;v&#x2F;13pmndf?embed'>
+  </iframe>
 </div>
 
 <!--내용 부분-->
