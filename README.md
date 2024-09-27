@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
-<div style='position: relative; width: 100%; height: 0; padding-top: 56.25%; overflow: hidden; will-change: transform;'>
-  <img src="https://github.com/user-attachments/assets/9b10c4d7-a40c-4acc-a00e-adca475f2336">
+<div>
+  <img src="https://github.com/user-attachments/assets/7389786d-ff8c-424a-bf0b-066a3b9e553b">
 </div>
 
 <!--내용 부분-->
