@@ -9,18 +9,18 @@
 <div align="center">
 
   <!--언어 및 라이브러리-->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp  <!--python-->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp  <!--python-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-" />&nbsp  <!--html-->
+"/>&nbsp  <!--html-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-" />&nbsp  <!--css-->
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp  <!--pandas-->
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp  <!--numpy-->
+"/>&nbsp  <!--css-->
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp  <!--pandas-->
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp  <!--numpy-->
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white
-" />&nbsp  <!--sqlalchemy-->
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp  <!--matploylib-->
+"/>&nbsp  <!--sqlalchemy-->
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"/>&nbsp  <!--matploylib-->
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white
-" />&nbsp  <!--hugging face-->
+"/>&nbsp  <!--hugging face-->
 
 <!--프레임워크-->
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
