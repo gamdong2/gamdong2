@@ -10,9 +10,10 @@
 
   <!--언어 및 라이브러리-->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp  <!--python-->
-  <img src="" />&nbsp  <!--sql-->
-  <img src="" />&nbsp  <!--html-->
-  <img src="" />&nbsp  <!--css-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+" />&nbsp  <!--html-->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+" />&nbsp  <!--css-->
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp  <!--pandas-->
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp  <!--numpy-->
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white
@@ -22,13 +23,18 @@
 " />&nbsp  <!--hugging face-->
 
 <!--프레임워크-->
-<img src="" />&nbsp  <!--django-->
-<img src="" />&nbsp  <!--flask-->
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+" />&nbsp  <!--django-->
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+" />&nbsp  <!--flask-->
 
 <!--데이터베이스-->
-<img src="" />&nbsp  <!--postgresql-->
-<img src="" />&nbsp  <!--mysql-->
-<img src="" />&nbsp  <!--mongodb-->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+" />&nbsp  <!--postgresql-->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+" />&nbsp  <!--mysql-->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+" />&nbsp  <!--mongodb-->
 
 </div>
 
@@ -36,7 +42,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-    <img src="" />&nbsp  <!--quicksight-->/>&nbsp
+    <img src="https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white
+" />&nbsp  <!--quicksight-->/>&nbsp
 </div>
 
 <br>
@@ -51,7 +58,8 @@
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp  <!--colab-->
 
   <!--데이터베이스 관리-->
-  <img src="" />&nbsp  <!--dbeaver-->
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white
+" />&nbsp  <!--dbeaver-->
 
   <!--협업-->
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp  <!--git-->
@@ -59,7 +67,8 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp  <!--notion-->
 
   <!--클라우드 서비스-->
-  <img src="" />&nbsp  <!--aws-->
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white
+" />&nbsp  <!--aws-->
 </div>
 
 
