@@ -69,7 +69,7 @@
   <a href="https://boar2234.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF8C00?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp;
   </a>
-  <a href="mailto:boar7027@gmail.com">
+  <a href="mailto:boar2234@naver.com">
     <img src="https://img.shields.io/badge/boar7027@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
 </div>
